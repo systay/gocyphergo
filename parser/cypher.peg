@@ -1,0 +1,10 @@
+{
+// testing block
+
+package testing;
+
+}
+
+NULL = "null"i
+
+EOF = !.
